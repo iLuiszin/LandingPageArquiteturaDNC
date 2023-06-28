@@ -2,6 +2,7 @@
 # Desafio 1 - Resolução
 
 Link do site disponibilizado: https://projetodncarquitetura.netlify.app
+
 Link da planilha de registro de informações: https://shorturl.at/bkESX
 
 ## Demonstração
